@@ -8,3 +8,4 @@ A simple test of Core ML on the Iris data set.
 - Train a model and create a mlmodel representation using: python model.py
 - Open the xcodeproj project and run.
 
+<img src="https://github.com/FlipWebApps/CoreML-Iris/blob/master/EmulatorScreenshot.PNG?raw=true"/>
